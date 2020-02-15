@@ -16,6 +16,7 @@ h1.title {
 
 
 .button, .button:link, .button:visited {
+  color: #121212;
   border: 1px solid #DDDDDD;
   width: 130px;
   height: 20px;
@@ -25,6 +26,7 @@ h1.title {
   text-align: center;
   display: inline-block;
   margin: 0 5px;
+  text-decoration: none;
 } 
 
 .button:hover, .button:active {
