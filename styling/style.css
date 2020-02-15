@@ -10,8 +10,9 @@ h1.title {
 }
 
 .button {
-  background-color: #DDDDDD;
-  padding: 130px 40px
+  border: 1px solid #DDDDDD;
+  width: 130px;
+  height: 40px;
   border-radius: 10px;
   font-family: Arial;
   text-align: center;
