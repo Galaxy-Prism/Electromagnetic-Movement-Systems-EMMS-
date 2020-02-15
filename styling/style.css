@@ -22,5 +22,5 @@ h1.title {
 } 
 
 .button:hover {
-  border-shadow: #9900FF
+  box-shadow: 0 0 2px #9900FF
 }
