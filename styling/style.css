@@ -15,7 +15,7 @@ h1.title {
 
 
 
-.button:link, .button:visited {
+.button, .button:link, .button:visited {
   border: 1px solid #DDDDDD;
   width: 130px;
   height: 20px;
