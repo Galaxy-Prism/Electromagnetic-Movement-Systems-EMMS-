@@ -27,7 +27,7 @@ h1.title {
   display: inline-block;
   margin: 0 5px;
   text-decoration: none;
-  text-weight:700;
+  text-decoration: bold;
 } 
 
 .button:hover, .button:active {
