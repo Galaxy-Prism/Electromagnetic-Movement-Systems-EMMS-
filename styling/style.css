@@ -9,6 +9,10 @@ h1.title {
   
 }
 
+.horizontal-index {
+  display: inline;
+}
+
 .button {
   border: 1px solid #DDDDDD;
   width: 130px;
@@ -22,5 +26,5 @@ h1.title {
 } 
 
 .button:hover {
-  box-shadow: 0 0 5px #AABBFF
+  box-shadow: 0 0 5px #AABBFF;
 }
