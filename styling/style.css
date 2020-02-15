@@ -20,3 +20,7 @@ h1.title {
   display: inline-block;
   margin: 0 5px;
 } 
+
+.button:hover {
+  border-shadow: #9900FF
+}
