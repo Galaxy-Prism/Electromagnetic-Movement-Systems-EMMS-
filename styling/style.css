@@ -13,7 +13,9 @@ h1.title {
   display: inline;
 }
 
-.button {
+
+
+.button:link, .button:visited {
   border: 1px solid #DDDDDD;
   width: 130px;
   height: 20px;
@@ -28,3 +30,4 @@ h1.title {
 .button:hover, .button:active {
   box-shadow: 0 0 5px #AABBFF;
 }
+
