@@ -13,9 +13,7 @@ h1.title {
   display: inline;
 }
 
-.nav-index {
-  background-color: #DDDDDD;
-}
+
 
 .button, .button:link, .button:visited {
   color: #121212;
@@ -40,10 +38,18 @@ h1.title {
   text-decoration: line-through;
 }
 
+ul.nav-index {
+  background-color: #DDDDDD;
+}
+
 ul.nav-index li a {
   display: inline-block;
   text-decoration: none;
   text-align: center;
   padding: 20px 30px;
   color: #DD00FF;
+}
+
+ul.nav-index li {
+  float: left;
 }
