@@ -31,7 +31,7 @@ h1.title {
 } 
 
 .button:hover, .button:active {
-  box-shadow: 0 0 5px #AABBFF;
+  box-shadow: 0 0 5px #AAAACC;
 }
 
 .strikethrough {
