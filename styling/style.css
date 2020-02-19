@@ -44,4 +44,6 @@ ul.nav-index li a {
   display: inline-block;
   text-decoration: none;
   text-align: center;
+  padding: 20px 30px;
+  color: #DD00FF;
 }
