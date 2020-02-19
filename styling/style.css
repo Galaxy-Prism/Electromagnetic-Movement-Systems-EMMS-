@@ -40,7 +40,7 @@ h1.title {
   text-decoration: line-through;
 }
 
-.index-button {
+ul.nav-index li a {
   display: inline-block;
   text-decoration: none;
   text-align: center;
