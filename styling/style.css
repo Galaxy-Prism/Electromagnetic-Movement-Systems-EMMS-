@@ -31,7 +31,7 @@ h1.title {
 } 
 
 .button:hover, .button:active {
-  box-shadow: 0 0 5px #AAAACC;
+  box-shadow: 0 0 5px #AABBFF;
 }
 
 .strikethrough {
@@ -51,7 +51,7 @@ ul.nav-index li a {
   text-decoration: none;
   text-align: center;
   padding: 15px 25px;
-  color: #AABBFF;
+  color: #AA80DD;
   font-family: Arial;
 }
 
