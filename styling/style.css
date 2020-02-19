@@ -41,6 +41,7 @@ h1.title {
 }
 
 .index-button {
-  display: block;
-  
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
 }
