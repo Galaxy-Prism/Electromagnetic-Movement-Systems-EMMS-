@@ -13,7 +13,9 @@ h1.title {
   display: inline;
 }
 
-
+.invis {
+  color: #FFFFFF;
+}
 
 .button, .button:link, .button:visited {
   color: #121212;
