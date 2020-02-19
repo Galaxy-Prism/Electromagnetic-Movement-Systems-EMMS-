@@ -17,9 +17,9 @@ h1.title {
 .button, .button:link, .button:visited {
   color: #121212;
   border: 1px solid #DDDDDD;
-  width: 130px;
+  width: 150px;
   height: 20px;
-  padding: 40px 15px;
+  padding: 20px 15px;
   border-radius: 10px;
   font-family: Arial;
   text-align: center;
