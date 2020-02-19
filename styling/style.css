@@ -13,7 +13,9 @@ h1.title {
   display: inline;
 }
 
-
+.nav-index {
+  background-color: #DDDDDD;
+}
 
 .button, .button:link, .button:visited {
   color: #121212;
