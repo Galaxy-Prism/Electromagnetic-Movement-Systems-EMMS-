@@ -39,3 +39,8 @@ h1.title {
 .strikethrough {
   text-decoration: line-through;
 }
+
+.index-button {
+  display: block;
+  
+}
