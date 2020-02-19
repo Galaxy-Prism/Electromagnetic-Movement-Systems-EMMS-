@@ -40,6 +40,9 @@ h1.title {
 
 ul.nav-index {
   background-color: #DDDDDD;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 ul.nav-index li a {
