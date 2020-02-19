@@ -46,7 +46,7 @@ ul.nav-index {
 }
 
 ul.nav-index li a {
-  display: inline-block;
+  display: block;
   text-decoration: none;
   text-align: center;
   padding: 20px 30px;
