@@ -38,11 +38,13 @@ h1.title {
   text-decoration: line-through;
 }
 
+
+//INDEX
 ul.nav-index {
-  background-color: #DDDDDD;
   list-style-type: none;
   padding: 0;
   margin: 0;
+  background-color: #DDDDDD;
 }
 
 ul.nav-index li a {
@@ -56,3 +58,8 @@ ul.nav-index li a {
 ul.nav-index li {
   float: left;
 }
+
+.active {
+  background-color: CDCDCD;
+}
+//INDEX END
