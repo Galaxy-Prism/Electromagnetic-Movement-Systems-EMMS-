@@ -62,4 +62,8 @@ ul.nav-index li {
 .active {
   background-color: #CDCDCD;
 }
+
+ul.nav-index li:hover:not(.active) {
+  background-color: #D9D9D9;
+}
 /*INDEX END*/
