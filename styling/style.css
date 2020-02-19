@@ -39,7 +39,7 @@ h1.title {
 }
 
 
-//INDEX
+/*INDEX*/
 ul.nav-index {
   list-style-type: none;
   padding: 0;
@@ -62,4 +62,4 @@ ul.nav-index li {
 .active {
   background-color: CDCDCD;
 }
-//INDEX END
+/*INDEX END*/
