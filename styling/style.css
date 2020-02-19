@@ -51,7 +51,8 @@ ul.nav-index li a {
   text-decoration: none;
   text-align: center;
   padding: 15px 25px;
-  color: #DD00FF;
+  color: #AABBFF;
+  font-family: Arial;
 }
 
 ul.nav-index li {
@@ -65,5 +66,9 @@ ul.nav-index li {
 
 ul.nav-index li:hover:not(.active) {
   background-color: #D9D9D9;
+}
+
+ul.nav-index li:hover {
+  box-shadow: 0 0 5px #AABBFF;
 }
 /*INDEX END*/
