@@ -47,7 +47,7 @@ ul.nav-index {
 }
 
 ul.nav-index li a {
-  display: block;
+  display: inline-block;
   text-decoration: none;
   text-align: center;
   padding: 15px 25px;
@@ -72,3 +72,4 @@ ul.nav-index li:hover {
   box-shadow: 0 0 5px #AABBFF;
 }
 /*INDEX END*/
+
