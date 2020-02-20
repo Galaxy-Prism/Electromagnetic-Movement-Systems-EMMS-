@@ -46,6 +46,9 @@ ul.nav-index {
   padding: 2px;
   margin: 2px;
   overflow: hidden;
+  position: sticky;
+  top: 0;
+  
 }
 
 ul.nav-index li a {
