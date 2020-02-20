@@ -97,6 +97,8 @@ ul.nav-index li:hover {
   padding: 10px 29px;
   background-color: #FCFCFC;
   text-decoration: none;
+  font-weight: bold;
+  color: AA80DD;
 }
 
 .ddcontent a:hover {
