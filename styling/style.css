@@ -96,7 +96,7 @@ ul.nav-index li:hover {
   display: block;
   padding: 10px 29px;
   background-color: #FCFCFC;
-
+  text-decoration: none;
 }
 
 .ddcontent a:hover {
