@@ -78,3 +78,29 @@ ul.nav-index li:hover {
   box-shadow: 0 0 5px #CCCCCC;
 }
 /*INDEX END*/
+
+
+/*DROPDOWN*/
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.ddbtn {
+  
+}
+
+.ddcontent {
+  
+}
+
+.ddcontent a {
+  
+}
+
+.dropdown:hover .ddbtn {
+  
+}
+
+
+/*DROPDOWN END*/
