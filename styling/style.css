@@ -86,21 +86,16 @@ ul.nav-index li:hover {
   display: inline-block;
 }
 
-.ddbtn {
-  
-}
-
 .ddcontent {
-  
+  display: none
 }
 
 .ddcontent a {
-  
+  display: block;
+  padding: 10px 30px;
 }
 
-.dropdown:hover .ddbtn {
-  
+.dropdown:hover .ddcontent {
+  display: block;
 }
-
-
 /*DROPDOWN END*/
